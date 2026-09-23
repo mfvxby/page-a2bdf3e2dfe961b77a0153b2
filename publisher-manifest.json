@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7ea3695d95066cb5e13982ea",
+  "owner": "mfvxby",
+  "repo": "page-a2bdf3e2dfe961b77a0153b2",
+  "title": "jiasu19",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a2bdf3e2dfe961b77a0153b2",
+      "a": "jiasu19",
+      "b": "2027官方最新地址导航",
+      "entity": "jiasu19",
+      "brand": "jiasu19",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9a0f35472d2ff6a74d1c8ffb247ba23c52d0b138de0b9f86cebf20b72af4ad38",
+      "content": {
+        "primary_entity": "jiasu19",
+        "keyword1": "jiasu19",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，手机、桌面与路由器各有适配方案，订阅链接在客户端内直接导入。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "从基础版到团队版，按设备数与流量需求挑选合适的档位即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，jiasu19 提供基础版、旗舰版与团队版三档订阅，月付从 ¥15 起，年付可省两个月费用；流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，覆盖个人手机、桌面电脑、家庭路由器与小型团队等多种使用场景，按设备数量与月流量选择档位最直接。",
+          "AI_FEATURES_INTRO": "三档套餐在流量、设备数与节点线路上逐级递进，先确定常用设备数量和月流量，再选择计费周期即可。",
+          "AI_FEATURES_TITLE": "套餐差异一目了然",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备，适合手机与电脑轻度使用；旗舰版每月 300GB，支持 5 台设备并解锁全节点原生流媒体。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB，支持 20 台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由，适合多人协作场景。",
+          "AI_FEATURE_TEXT_3": "三档均提供年付方案，按年付分别仅需 ¥150、¥350、¥850，比按月支付更划算，长期使用建议直接选择年付。",
+          "AI_FEATURE_TITLE_1": "流量与设备档位",
+          "AI_FEATURE_TITLE_2": "线路与场景适配",
+          "AI_FEATURE_TITLE_3": "计费周期选择",
+          "AI_GUIDE_INTRO": "先确认设备数量与月流量需求，再选择套餐，最后参照客户端文档导入订阅并连接节点。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "jiasu19 提供基础版、旗舰版与团队版三档海外加速订阅，按设备数量与月流量灵活选择，覆盖手机、电脑、路由器与小型团队场景，年付更省。",
+          "AI_HERO_SUBTITLE": "多设备订阅灵活选",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备可选",
+          "AI_HIGHLIGHT_3": "100GB 至 1000GB 流量",
+          "AI_PLANS_INTRO": "三档套餐按流量与设备数划分，先看常用设备数量，再看每月流量需求，即可对应到具体档位与价格。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先统计需要同时在线的设备数量，以及每月大致流量消耗，用来匹配套餐档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与网络环境满足客户端连接条件。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，完成节点选择与连接，即可在设备上正常使用。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "多设备加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "jiasu19 三个套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并包含全节点流媒体解锁和 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备，还有 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "同时在线设备数取决于套餐：基础版为 3 台，旗舰版为 5 台，团队版为 20 台。超出套餐数量可能导致新设备无法连接，需要升级版本或先退出其他设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选比较合适？",
+          "AI_FAQ_ANSWER_3": "短期试用或用量不稳定时适合先月付；确认长期使用后可选年付，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，折算后月均成本比月付更低。",
+          "AI_FAQ_QUESTION_4": "在不同设备上需要分别配置吗？",
+          "AI_FAQ_ANSWER_4": "是的，每个设备需要单独安装对应客户端并按文档导入订阅信息。手机、平板和电脑使用的客户端不同，配置步骤以各自客户端的说明为准。",
+          "AI_FAQ_QUESTION_5": "套餐流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，通常需要等待下个计费周期恢复，或提前升级到更高流量档位。若经常接近上限，建议直接选择旗舰版或团队版，避免中途断档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nkkuojz.cn",
+    "host": "nkkuojz.cn"
+  },
+  "file_hashes": {
+    "index.html": "a8a78a96e65a898baf0335d8b4172d02a3c93a518bc595dbeeee56a887c245fd",
+    "sitemap.xml": "33128a076d397835dbe7ebb93d357d98271ce0739fa3d0762d87328b103a743d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0e17fd677221d638d198e0c7cf074094181232132799efce63c3bd6d21448a09",
+    "robots.txt": "edbf4fcd317a71f424a7e06a0b46d483296ba21834f2266b5242315461872d5b",
+    "8bd395cbe337f619e6c68a6d549498ba.txt": "74132e00292afa2cb97adf2c9c0b9a839a8f013d806306a02584e1730c413ead"
+  },
+  "revision": "432affc507ea4abcbcb0a5c844b249bdebb7f44f5e1b1aef30407836530356b9"
+}
